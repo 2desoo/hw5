@@ -74,6 +74,7 @@ public class Main {
                 System.out.println("Осенний сезон");
                 break;
         }
+        
 
     }
 }
